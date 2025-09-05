@@ -1,5 +1,5 @@
 # Assignment 1: AI-Generated Python Problems
-# Name: [Your Name Here]
+# Name: [Nyleah Jones]
 
 """
 AI-Generated Problem Set
@@ -20,7 +20,9 @@ Remember: The goal is to LEARN, not just get working code!
 
 """
 MY ORIGINAL AI PROMPT:
-[Paste the prompt you used to generate your problem set here]
+I am a highschool student who has taken AP CSA, but Ive dabbled a little bit in python. 
+Can you give me 5 problems to do, to help me learn variables and basic data types:
+ conditionals(if/elif/else), loops(for and while), functions, and basic list operations.
 
 Example: "I'm learning Python basics in a high school programming class. 
 I have some experience with Java. Can you create 5-7 practice problems that cover..."
@@ -31,8 +33,20 @@ I have some experience with Java. Can you create 5-7 practice problems that cove
 # =============================================================================
 
 """
-PROBLEM 1: [Problem Title/Description]
-[Copy the complete problem description from your AI assistant]
+PROBLEM 1: Temperature Converter
+Write a program that:
+
+Asks the user to input a temperature in Celsius
+
+Converts it to Fahrenheit using the formula: F = (C * 9/5) + 32
+
+Prints the result in a formatted message
+
+    Example:
+        Enter temperature in Celsius: 25
+        25°C is 77.0°F
+
+
 
 Example:
 Problem: Write a function called 'is_even' that takes an integer and returns 
