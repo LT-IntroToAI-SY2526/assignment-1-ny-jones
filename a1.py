@@ -45,8 +45,7 @@ Prints the result in a formatted message
     Example:
         Enter temperature in Celsius: 25
         25°C is 77.0°F
-
-
+ccccc
 
 Example:
 Problem: Write a function called 'is_even' that takes an integer and returns 
@@ -56,9 +55,9 @@ Example inputs/outputs:
 - is_even(4) should return True
 - is_even(7) should return False
 """
-
-
-
+number= int(input("Enter temperature in Celsius:"))
+Fahr= (float(number) * 9/5 ) +32
+print(str(number) +" Degrees Celsius is "+ str(Fahr)+ " Fahrenheit")
 
 
 
@@ -84,7 +83,9 @@ print(f"is_even(7): {is_even(7)}")  # Should print False
 """
 
 print("Testing Problem 1:")
-# Add your tests here
+number= int(input("Enter temperature in Celsius:"))
+Fahr= (float(number) * 9/5 ) +32
+print(str(number) +" Degrees Celsius is "+ str(Fahr)+ " Fahrenheit")
 
 print("\nTesting Problem 2:")
 # Add your tests here
