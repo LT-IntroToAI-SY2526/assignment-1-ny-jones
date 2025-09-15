@@ -46,7 +46,7 @@ def factorial(n: int) -> int:
     assert factorial(4)==24 
     assert factorial(5)
 
-clea
+
 T = TypeVar("T")
 
 
